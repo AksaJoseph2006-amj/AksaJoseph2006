@@ -21,7 +21,7 @@ Currently, I'm exploring web development, improving my skills, and building proj
 
 ### Let's Connect! ✨
 📩 Email: josephaksa2006@gmail.com
-💼 LinkedIn: your-l
-🌐 Portfolio: your-portfolio-link  
+💼 LinkedIn: www.linkedin.com/in/aksamaryjoseph
+ 
 
 Thanks for stopping by! 🌸
