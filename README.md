@@ -13,9 +13,9 @@ Currently, I'm exploring web development, improving my skills, and building proj
 - 🎨 Figma | Framer | Canva | CapCut
 
 ### Fun Facts 🌷
-- 📚 I love reading and getting lost in a good book
-- 🏎️ I enjoy following sports and keeping up with the excitement
-- 🎨 I design cute little websites on Framer just because it's fun
+- 📚 I love reading 
+- 🏎️ I enjoy sports 
+- 🎨 I design cute little websites on Framer and figma just because it's fun
 - 💗 I love pretty designs, creative ideas, and aesthetic details
 - 💅 Elle Woods is my inspiration for confidence, ambition, and iconic energy
 
